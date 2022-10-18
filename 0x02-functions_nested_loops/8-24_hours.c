@@ -4,7 +4,6 @@
  *
  * Return:0 if succeesful.
  * */
-
 void jack_bauer(void)
 {
 	int i, j, k, m;
