@@ -12,7 +12,7 @@ int main(void)
  int sum = 2772;
  int n;
 
- srand(time(0))
+ srand(time(0));
  while (sum)
  {
   n = rand() % 100;
